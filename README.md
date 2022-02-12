@@ -1,6 +1,6 @@
-## UEF Biomedical Image Analysis Group software
+# UEF Biomedical Image Analysis Group software
 
-# Preclinical MRI segmentation
+## Preclinical MRI segmentation
 
  - RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation [Repo](https://github.com/jmlipman/RatLesNetv2) [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2020.610239/full) [Main developer](https://github.com/jmlipman)
 
@@ -10,8 +10,14 @@
 
 - MedicaDeepLabV3+: convolutional neural network based on DeepLabv3+ implemented in Python and Pytorch to extract the brain mask and the contralateral hemisphere of rodent MRI brain scans with lesions [Repo](https://github.com/jmlipman/MedicDeepLabv3Plus) [Preprint](https://arxiv.org/abs/2108.01941) [Main developer](https://github.com/jmlipman)
 
-# Electron Microscopy segmentation
+## Electron Microscopy segmentation
 
 - gACSON: Matlab-based software is to visualize, segment, and analyze the morphology of neurons in three-dimensional electron microscopy images. [Repo](https://github.com/AndreaBehan/gACSON) [Preprint](https://arxiv.org/abs/2112.06476) [Main developer](https://github.com/AndreaBehan)
 - DeepACSON: Automated Segmentation of White Matter in 3D Electron Microscopy with Deep Concolutional Networks [Repo](https://github.com/aAbdz/DeepACSON) [Paper-DeepACSON](https://www.nature.com/articles/s42003-021-01699-w) [Paper-CylindericalShapeDecomposition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9345673) [Main Developer](https://github.com/aAbdz)   
+
+## Biomedical Image Segmentation (General)
+
+## Machine Learning based prognostics of brain diseases
+
+## Intersubject correlation for fMRI data analyses
 
