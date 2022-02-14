@@ -17,10 +17,14 @@ This is an (incomplete) list of software produced in Biomedical Image Analysis g
 - gACSON: Matlab-based software is to visualize, segment, and analyze the morphology of neurons in three-dimensional electron microscopy images. [|Repo|](https://github.com/AndreaBehan/gACSON) [|Preprint|](https://arxiv.org/abs/2112.06476) [|Main developer|](https://github.com/AndreaBehan) [|Collaboration with Multiscale Imaging Group at UEF|](https://uefconnect.uef.fi/en/group/multiscale-imaging-group/)
 - DeepACSON: Automated Segmentation of White Matter in 3D Electron Microscopy with Deep Concolutional Networks [|Repo|](https://github.com/aAbdz/DeepACSON) [|Paper-DeepACSON|](https://www.nature.com/articles/s42003-021-01699-w) [|Paper-CylindericalShapeDecomposition|](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9345673) [|Main Developer|](https://github.com/aAbdz)  [|Collaboration with Multiscale Imaging Group at UEF|](https://uefconnect.uef.fi/en/group/multiscale-imaging-group/) 
 - Matlab-based miniTEM-Image-Segmentation equipped with a GUI [|Repo|](https://github.com/AndreaBehan/miniTEM-Image-Segmentation) [|Main developer|](https://github.com/AndreaBehan) 
+- A GUI (and Matlab) based fluorescence microspocy image segmentation for TDP-43 translocation analysis [|Repo|](https://github.com/AndreaBehan/FMIS-software) [|Paper|](https://www.frontiersin.org/articles/10.3389/fneur.2020.550140/full)[|Main developer|](https://github.com/AndreaBehan) 
 
 ## Biomedical Image Segmentation (General)
 
+- Region-wise loss for biomedical image segmentation [|Repo|](https://github.com/jmlipman/RegionWiseLoss) [|Preprint|](https://arxiv.org/abs/2108.01405)  [|Main developer|](https://github.com/jmlipman) 
+
 ## Machine Learning based prognostics of brain diseases
+ - Sign Consistency Bagging for Variable Importance [|Notebook|](https://github.com/vgverdejo/ResearchActivities/blob/master/Neuroimage/Sign-consistency.ipynb) [|Paper|(https://link.springer.com/article/10.1007/s12021-019-9415-3)] |Collaboration with [Vanessa](https://github.com/vgverdejo) and Emilio from UC3M| 
 
 ## Intersubject correlation for fMRI data analyses
 
