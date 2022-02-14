@@ -24,7 +24,8 @@ This is an (incomplete) list of software produced in Biomedical Image Analysis g
 - Region-wise loss for biomedical image segmentation [|Repo|](https://github.com/jmlipman/RegionWiseLoss) [|Preprint|](https://arxiv.org/abs/2108.01405)  [|Main developer|](https://github.com/jmlipman) 
 
 ## Machine Learning based prognostics of brain diseases
- - Sign Consistency Bagging for Variable Importance [|Notebook|](https://github.com/vgverdejo/ResearchActivities/blob/master/Neuroimage/Sign-consistency.ipynb) [|Paper|(https://link.springer.com/article/10.1007/s12021-019-9415-3)] |Collaboration with [Vanessa](https://github.com/vgverdejo) and Emilio from UC3M| 
+ - Sign Consistency Bagging for Variable Importance [|Notebook|](https://github.com/vgverdejo/ResearchActivities/blob/master/Neuroimage/Sign-consistency.ipynb) [|Paper|](https://link.springer.com/article/10.1007/s12021-019-9415-3)] |Collaboration with [Vanessa](https://github.com/vgverdejo) and Emilio from UC3M| 
+ - Multitask learning for predicting ADAS-Cog scores based on MRI [|Repo|](https://github.com/vandadim/ADAS_MRI) [|Paper|](https://ieeexplore.ieee.org/document/9611243) [|Main developer|](https://github.com/vandadim)
 
 ## Intersubject correlation for fMRI data analyses
 
